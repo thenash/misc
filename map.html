@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>geoxmlmultilayersHTML</title>
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+    <style type='text/css'>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            font-family: 'Segoe UI', Helvetica, Arial, Sans-Serif
+        }
+    </style>
+</head>
+
+<body>
+    <div id='printoutPanel'></div>
+
+    <div id='myMap' style='width: 100vw; height: 100vh;'></div>
+    <script type='text/javascript'>
+        function loadMapScenario() {
+            var map = new Microsoft.Maps.Map(document.getElementById('myMap'), {
+                /* No need to set credentials if already passed in URL */
+                zoom: 1
+            });
+            Microsoft.Maps.loadModule('Microsoft.Maps.GeoXml', function() {
+                var layer = new Microsoft.Maps.GeoXmlLayer(
+                    'https://raw.githubusercontent.com/thenash/misc/master/SampleKml.kml');
+                map.layers.insert(layer);
+            });
+
+        }
+    </script>
+    <script type='text/javascript' src='https://www.bing.com/api/maps/mapcontrol?key=Ate83Y4sL4eOw8t8lQ9L_8wtG6abbO8-zpBnDYn5hXHQMtOg-vIJ5bvItBMi0x2q&callback=loadMapScenario' async defer>
+    </script>
+</body>
+
+</html>
