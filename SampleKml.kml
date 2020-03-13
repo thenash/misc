@@ -117,7 +117,7 @@
                 <name>Australia</name>
                 <description>asdfghfd</description>
                 <Point>
-                    <coordinates>-33.8688,151.2093</coordinates>
+                    <coordinates>151.2093,-33.8688</coordinates>
                 </Point>
             </Placemark>
         </Folder>
