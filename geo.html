@@ -31,7 +31,8 @@
                 Microsoft.Maps.GeoJson.readFromUrl(usgsEarthquakeUrl, function(shapes) {
                     //Add shapes to the layer.
                     dataLayer.add(shapes);
-                }, 'callback');
+                });
+
             });
         }
 
