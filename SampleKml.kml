@@ -34,42 +34,6 @@
         </Style>
         <Folder>
             <Placemark>
-                <name>Coldwater Lake</name>
-                <description>Formed by the 1980 eruption of Mount St. Helens.</description>
-                <styleUrl>#style0</styleUrl>
-                <Polygon>
-                    <outerBoundaryIs>
-                        <LinearRing>
-                            <coordinates>-122.22616,46.31409 -122.22968,46.31113 -122.2332,46.31083 -122.25877,46.29802 -122.26641,46.29245 -122.26392,46.29286 -122.26744,46.28746 -122.26006,46.28741 -122.25955,46.29049 -122.2562,46.2912 -122.25543,46.28924 -122.23251,46.30271 -122.22315,46.31284 -122.22616,46.31409</coordinates>
-                        </LinearRing>
-                    </outerBoundaryIs>
-                </Polygon>
-            </Placemark>
-            <Placemark>
-                <name>Lakes Trailhead</name>
-                <description>This is where we started our hike, just down the road from the visitor center. You could also start at the visitor center.</description>
-                <styleUrl>#style1</styleUrl>
-                <Point>
-                    <coordinates>-122.2658157,46.2913246</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark>
-                <name>Snow Lake Camp</name>
-                <description>Our first night. Small, clear lake. Cold and without much sun, but a lovely spot!</description>
-                <styleUrl>#style1</styleUrl>
-                <Point>
-                    <coordinates>-122.15183258,46.3321785</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark>
-                <name>Shovel Lake Camp</name>
-                <description>A nice spot for lunch and quick dip (brrrr!).</description>
-                <styleUrl>#style1</styleUrl>
-                <Point>
-                    <coordinates>-122.133036,46.3316395</coordinates>
-                </Point>
-            </Placemark>
-            <Placemark>
                 <name>Panhandle Lake Camp</name>
                 <description>We stayed here night #2. It&amp;apos;s not far from our first night, but allowed us time to explore the Whittier Ridge trail and swim in the lake.</description>
                 <Point>
