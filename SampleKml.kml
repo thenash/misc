@@ -38,14 +38,14 @@
                 <name>AnnArbor,Michigan</name>
                 <description></description>
                 <Point>
-                    <coordinates>42.280826,-83.743038</coordinates>
+                    <coordinates>-83.743038,42.280826</coordinates>
                 </Point>
             </Placemark>
             <Placemark>
                 <name>Austin,Texas</name>
                 <description></description>
                 <Point>
-                    <coordinates>30.267153,-97.743061</coordinates>
+                    <coordinates>-97.743061,30.267153</coordinates>
                 </Point>
             </Placemark>
         </Folder>
