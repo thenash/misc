@@ -11,7 +11,7 @@
     "features": [{
             "type": "Feature",
             "properties": {
-                "title": "M 4.7 - Northern Mid-Atlantic Ridge"
+                "title": "Mash 4.7 - Northern Mid-Atlantic Ridge"
             },
             "geometry": {
                 "type": "Point",
