@@ -43,7 +43,9 @@
         }
 
         function GetMap() {
-            var map = new Microsoft.Maps.Map('#myMap1', {});
+            var map = new Microsoft.Maps.Map('#myMap1', {
+                zoom: 5
+            });
 
             //Generate 2 random locations within the current map view.
             var locs = Microsoft.Maps.TestDataGenerator.getLocations(2, map.getBounds());
