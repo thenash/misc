@@ -8,8 +8,20 @@
         "api": "1.8.1",
         "count": 1010
     },
-    "features": [
-
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "title": "Mash 4.7 - Northern Mid-Atlantic Ridge"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-45.817700000000002,
+                    21.1676,
+                    10
+                ]
+            },
+            "id": "us60008fpd"
+        },
         {
             "type": "Feature",
             "properties": {
