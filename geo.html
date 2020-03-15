@@ -6,7 +6,7 @@
     <meta charset="utf-8" />
     <script type='text/javascript'>
         var map, infobox, dataLayer;
-        var usgsEarthquakeUrl = 'https://raw.githubusercontent.com/thenash/misc/master/synh.geojson';
+        var syncCovid = 'https://raw.githubusercontent.com/thenash/misc/master/sync.geojson';
 
         function GetMap() {
             map = new Microsoft.Maps.Map('#myMap', {
@@ -28,7 +28,7 @@
 
             //Load the GeoJSON module and read the GeoJSON feed.
             Microsoft.Maps.loadModule('Microsoft.Maps.GeoJson', function() {
-                Microsoft.Maps.GeoJson.readFromUrl(usgsEarthquakeUrl, function(shapes) {
+                Microsoft.Maps.GeoJson.readFromUrl(syncCovid, function(shapes) {
                     //Add shapes to the layer.
                     dataLayer.add(shapes);
                 });
@@ -48,7 +48,7 @@
             //Display the infoboc
             infobox.setOptions({
                 location: loc,
-                title: shape.metadata.title,
+                title: shape.metadata.title + "\n" + shape.metadata.confirmed + "\n" + shape.metadata.deaths + "\n" + shape.metadata.recovered,
                 visible: true
             });
         }
