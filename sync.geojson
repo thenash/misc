@@ -3,7 +3,10 @@
     "features": [{
         "type": "Feature",
         "properties": {
-            "title": "BEIJING, CHINA\rConfirmed: 437\rDeaths: 8\rRecovered: 349"
+            "title": "BEIJING, CHINA",
+            "confirmed": "Confirmed: 437",
+            "deaths": "Deaths: 8",
+            "recovered": "Recovered: 349"
         },
         "geometry": {
             "type": "Point",
@@ -15,7 +18,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "CALIFORNIA, US\rConfirmed: 340\rDeaths: 5\rRecovered: 6"
+            "title": "CALIFORNIA, US",
+            "confirmed": "Confirmed: 340",
+            "deaths": "Deaths: 5",
+            "recovered": "Recovered: 6"
         },
         "geometry": {
             "type": "Point",
@@ -25,7 +31,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "FLORIDA, US\rConfirmed: 76\rDeaths: 3\rRecovered: 0"
+            "title": "FLORIDA, US",
+            "confirmed": "Confirmed: 76",
+            "deaths": "Deaths: 3",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -35,7 +44,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "FRANCE, FRANCE\rConfirmed: 4469\rDeaths: 91\rRecovered: 12"
+            "title": "FRANCE, FRANCE",
+            "confirmed": "Confirmed: 4469",
+            "deaths": "Deaths: 91",
+            "recovered": "Recovered: 12"
         },
         "geometry": {
             "type": "Point",
@@ -47,7 +59,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "INDIANA, US\rConfirmed: 16\rDeaths: 0\rRecovered: 0"
+            "title": "INDIANA, US",
+            "confirmed": "Confirmed: 16",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -57,7 +72,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "MASSACHUSETTS, US\rConfirmed: 138\rDeaths: 0\rRecovered: 1"
+            "title": "MASSACHUSETTS, US",
+            "confirmed": "Confirmed: 138",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 1"
         },
         "geometry": {
             "type": "Point",
@@ -67,7 +85,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "MICHIGAN, US\rConfirmed: 25\rDeaths: 0\rRecovered: 0"
+            "title": "MICHIGAN, US",
+            "confirmed": "Confirmed: 25",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -77,7 +98,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "NEW JERSEY, US\rConfirmed: 69\rDeaths: 1\rRecovered: 0"
+            "title": "NEW JERSEY, US",
+            "confirmed": "Confirmed: 69",
+            "deaths": "Deaths: 1",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -87,7 +111,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "NEW SOUTH WALES, AUSTRALIA\rConfirmed: 112\rDeaths: 2\rRecovered: 4"
+            "title": "NEW SOUTH WALES, AUSTRALIA",
+            "confirmed": "Confirmed: 112",
+            "deaths": "Deaths: 2",
+            "recovered": "Recovered: 4"
         },
         "geometry": {
             "type": "Point",
@@ -99,7 +126,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "NEW YORK, US\rConfirmed: 525\rDeaths: 2\rRecovered: 0"
+            "title": "NEW YORK, US",
+            "confirmed": "Confirmed: 525",
+            "deaths": "Deaths: 2",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -109,7 +139,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "NORTH CAROLINA, US\rConfirmed: 24\rDeaths: 0\rRecovered: 0"
+            "title": "NORTH CAROLINA, US",
+            "confirmed": "Confirmed: 24",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -119,7 +152,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "OHIO, US\rConfirmed: 26\rDeaths: 0\rRecovered: 0"
+            "title": "OHIO, US",
+            "confirmed": "Confirmed: 26",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -129,7 +165,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "ONTARIO, CANADA\rConfirmed: 79\rDeaths: 0\rRecovered: 4"
+            "title": "ONTARIO, CANADA",
+            "confirmed": "Confirmed: 79",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 4"
         },
         "geometry": {
             "type": "Point",
@@ -139,7 +178,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "PENNSYLVANIA, US\rConfirmed: 47\rDeaths: 0\rRecovered: 0"
+            "title": "PENNSYLVANIA, US",
+            "confirmed": "Confirmed: 47",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -149,7 +191,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "QUEBEC, CANADA\rConfirmed: 17\rDeaths: 0\rRecovered: 0"
+            "title": "QUEBEC, CANADA",
+            "confirmed": "Confirmed: 17",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -159,7 +204,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "SHANGHAI, CHINA\rConfirmed: 353\rDeaths: 3\rRecovered: 324"
+            "title": "SHANGHAI, CHINA",
+            "confirmed": "Confirmed: 353",
+            "deaths": "Deaths: 3",
+            "recovered": "Recovered: 324"
         },
         "geometry": {
             "type": "Point",
@@ -171,7 +219,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "SOUTH AUSTRALIA, AUSTRALIA\rConfirmed: 19\rDeaths: 0\rRecovered: 3"
+            "title": "SOUTH AUSTRALIA, AUSTRALIA",
+            "confirmed": "Confirmed: 19",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 3"
         },
         "geometry": {
             "type": "Point",
@@ -183,7 +234,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "TEXAS, US\rConfirmed: 57\rDeaths: 0\rRecovered: 0"
+            "title": "TEXAS, US",
+            "confirmed": "Confirmed: 57",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -193,7 +247,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "UNITED KINGDOM, UNITED KINGDOM\rConfirmed: 1140\rDeaths: 21\rRecovered: 18"
+            "title": "UNITED KINGDOM, UNITED KINGDOM",
+            "confirmed": "Confirmed: 1140",
+            "deaths": "Deaths: 21",
+            "recovered": "Recovered: 18"
         },
         "geometry": {
             "type": "Point",
@@ -203,7 +260,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "INDONESIA\rConfirmed: 96\rDeaths: 5\rRecovered: 8"
+            "title": "INDONESIA",
+            "confirmed": "Confirmed: 96",
+            "deaths": "Deaths: 5",
+            "recovered": "Recovered: 8"
         },
         "geometry": {
             "type": "Point",
@@ -215,7 +275,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "ISRAEL\rConfirmed: 193\rDeaths: 0\rRecovered: 4"
+            "title": "ISRAEL",
+            "confirmed": "Confirmed: 193",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 4"
         },
         "geometry": {
             "type": "Point",
@@ -227,7 +290,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "ITALY\rConfirmed: 21157\rDeaths: 1441\rRecovered: 1966"
+            "title": "ITALY",
+            "confirmed": "Confirmed: 21157",
+            "deaths": "Deaths: 1441",
+            "recovered": "Recovered: 1966"
         },
         "geometry": {
             "type": "Point",
@@ -239,7 +305,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "JAPAN\rConfirmed: 773\rDeaths: 22\rRecovered: 118"
+            "title": "JAPAN",
+            "confirmed": "Confirmed: 773",
+            "deaths": "Deaths: 22",
+            "recovered": "Recovered: 118"
         },
         "geometry": {
             "type": "Point",
@@ -251,7 +320,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "KOREA, SOUTH\rConfirmed: 8086\rDeaths: 72\rRecovered: 510"
+            "title": "KOREA, SOUTH",
+            "confirmed": "Confirmed: 8086",
+            "deaths": "Deaths: 72",
+            "recovered": "Recovered: 510"
         },
         "geometry": {
             "type": "Point",
@@ -263,7 +335,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "LEBANON\rConfirmed: 93\rDeaths: 3\rRecovered: 1"
+            "title": "LEBANON",
+            "confirmed": "Confirmed: 93",
+            "deaths": "Deaths: 3",
+            "recovered": "Recovered: 1"
         },
         "geometry": {
             "type": "Point",
@@ -275,7 +350,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "MALAYSIA\rConfirmed: 238\rDeaths: 0\rRecovered: 35"
+            "title": "MALAYSIA",
+            "confirmed": "Confirmed: 238",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 35"
         },
         "geometry": {
             "type": "Point",
@@ -287,7 +365,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "MEXICO\rConfirmed: 26\rDeaths: 0\rRecovered: 4"
+            "title": "MEXICO",
+            "confirmed": "Confirmed: 26",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 4"
         },
         "geometry": {
             "type": "Point",
@@ -297,7 +378,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "NETHERLANDS\rConfirmed: 959\rDeaths: 12\rRecovered: 2"
+            "title": "NETHERLANDS",
+            "confirmed": "Confirmed: 959",
+            "deaths": "Deaths: 12",
+            "recovered": "Recovered: 2"
         },
         "geometry": {
             "type": "Point",
@@ -309,7 +393,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "NEW ZEALAND\rConfirmed: 6\rDeaths: 0\rRecovered: 0"
+            "title": "NEW ZEALAND",
+            "confirmed": "Confirmed: 6",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -321,7 +408,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "PERU\rConfirmed: 38\rDeaths: 0\rRecovered: 0"
+            "title": "PERU",
+            "confirmed": "Confirmed: 38",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -331,7 +421,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "PHILIPPINES\rConfirmed: 111\rDeaths: 8\rRecovered: 2"
+            "title": "PHILIPPINES",
+            "confirmed": "Confirmed: 111",
+            "deaths": "Deaths: 8",
+            "recovered": "Recovered: 2"
         },
         "geometry": {
             "type": "Point",
@@ -343,7 +436,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "POLAND\rConfirmed: 103\rDeaths: 3\rRecovered: 0"
+            "title": "POLAND",
+            "confirmed": "Confirmed: 103",
+            "deaths": "Deaths: 3",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -355,7 +451,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "PORTUGAL\rConfirmed: 169\rDeaths: 0\rRecovered: 2"
+            "title": "PORTUGAL",
+            "confirmed": "Confirmed: 169",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 2"
         },
         "geometry": {
             "type": "Point",
@@ -365,7 +464,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "ROMANIA\rConfirmed: 123\rDeaths: 0\rRecovered: 9"
+            "title": "ROMANIA",
+            "confirmed": "Confirmed: 123",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 9"
         },
         "geometry": {
             "type": "Point",
@@ -377,7 +479,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "RUSSIA\rConfirmed: 59\rDeaths: 0\rRecovered: 8"
+            "title": "RUSSIA",
+            "confirmed": "Confirmed: 59",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 8"
         },
         "geometry": {
             "type": "Point",
@@ -389,7 +494,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "SERBIA\rConfirmed: 46\rDeaths: 0\rRecovered: 0"
+            "title": "SERBIA",
+            "confirmed": "Confirmed: 46",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -401,7 +509,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "SLOVAKIA\rConfirmed: 44\rDeaths: 0\rRecovered: 0"
+            "title": "SLOVAKIA",
+            "confirmed": "Confirmed: 44",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -413,7 +524,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "SOUTH AFRICA\rConfirmed: 38\rDeaths: 0\rRecovered: 0"
+            "title": "SOUTH AFRICA",
+            "confirmed": "Confirmed: 38",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -425,7 +539,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "SPAIN\rConfirmed: 6391\rDeaths: 195\rRecovered: 517"
+            "title": "SPAIN",
+            "confirmed": "Confirmed: 6391",
+            "deaths": "Deaths: 195",
+            "recovered": "Recovered: 517"
         },
         "geometry": {
             "type": "Point",
@@ -435,7 +552,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "SWEDEN\rConfirmed: 961\rDeaths: 2\rRecovered: 1"
+            "title": "SWEDEN",
+            "confirmed": "Confirmed: 961",
+            "deaths": "Deaths: 2",
+            "recovered": "Recovered: 1"
         },
         "geometry": {
             "type": "Point",
@@ -447,7 +567,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "TAIWAN*\rConfirmed: 53\rDeaths: 1\rRecovered: 20"
+            "title": "TAIWAN*",
+            "confirmed": "Confirmed: 53",
+            "deaths": "Deaths: 1",
+            "recovered": "Recovered: 20"
         },
         "geometry": {
             "type": "Point",
@@ -459,7 +582,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "THAILAND\rConfirmed: 82\rDeaths: 1\rRecovered: 35"
+            "title": "THAILAND",
+            "confirmed": "Confirmed: 82",
+            "deaths": "Deaths: 1",
+            "recovered": "Recovered: 35"
         },
         "geometry": {
             "type": "Point",
@@ -471,7 +597,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "TURKEY\rConfirmed: 5\rDeaths: 0\rRecovered: 0"
+            "title": "TURKEY",
+            "confirmed": "Confirmed: 5",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -483,7 +612,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "UKRAINE\rConfirmed: 3\rDeaths: 1\rRecovered: 0"
+            "title": "UKRAINE",
+            "confirmed": "Confirmed: 3",
+            "deaths": "Deaths: 1",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -495,7 +627,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "UNITED ARAB EMIRATES\rConfirmed: 85\rDeaths: 0\rRecovered: 17"
+            "title": "UNITED ARAB EMIRATES",
+            "confirmed": "Confirmed: 85",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 17"
         },
         "geometry": {
             "type": "Point",
@@ -507,7 +642,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "COLOMBIA\rConfirmed: 22\rDeaths: 0\rRecovered: 0"
+            "title": "COLOMBIA",
+            "confirmed": "Confirmed: 22",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -517,7 +655,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "CHILE\rConfirmed: 61\rDeaths: 0\rRecovered: 0"
+            "title": "CHILE",
+            "confirmed": "Confirmed: 61",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -527,7 +668,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "BULGARIA\rConfirmed: 41\rDeaths: 2\rRecovered: 0"
+            "title": "BULGARIA",
+            "confirmed": "Confirmed: 41",
+            "deaths": "Deaths: 2",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -539,7 +683,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "BRAZIL\rConfirmed: 151\rDeaths: 0\rRecovered: 0"
+            "title": "BRAZIL",
+            "confirmed": "Confirmed: 151",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -549,7 +696,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "BELGIUM\rConfirmed: 689\rDeaths: 4\rRecovered: 1"
+            "title": "BELGIUM",
+            "confirmed": "Confirmed: 689",
+            "deaths": "Deaths: 4",
+            "recovered": "Recovered: 1"
         },
         "geometry": {
             "type": "Point",
@@ -561,7 +711,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "ARGENTINA\rConfirmed: 34\rDeaths: 2\rRecovered: 1"
+            "title": "ARGENTINA",
+            "confirmed": "Confirmed: 34",
+            "deaths": "Deaths: 2",
+            "recovered": "Recovered: 1"
         },
         "geometry": {
             "type": "Point",
@@ -571,7 +724,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "INDIA\rConfirmed: 102\rDeaths: 2\rRecovered: 4"
+            "title": "INDIA",
+            "confirmed": "Confirmed: 102",
+            "deaths": "Deaths: 2",
+            "recovered": "Recovered: 4"
         },
         "geometry": {
             "type": "Point",
@@ -583,7 +739,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "HUNGARY\rConfirmed: 30\rDeaths: 0\rRecovered: 1"
+            "title": "HUNGARY",
+            "confirmed": "Confirmed: 30",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 1"
         },
         "geometry": {
             "type": "Point",
@@ -595,7 +754,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "GREECE\rConfirmed: 228\rDeaths: 3\rRecovered: 8"
+            "title": "GREECE",
+            "confirmed": "Confirmed: 228",
+            "deaths": "Deaths: 3",
+            "recovered": "Recovered: 8"
         },
         "geometry": {
             "type": "Point",
@@ -607,7 +769,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "EGYPT\rConfirmed: 109\rDeaths: 2\rRecovered: 27"
+            "title": "EGYPT",
+            "confirmed": "Confirmed: 109",
+            "deaths": "Deaths: 2",
+            "recovered": "Recovered: 27"
         },
         "geometry": {
             "type": "Point",
@@ -619,7 +784,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "CZECHIA\rConfirmed: 189\rDeaths: 0\rRecovered: 0"
+            "title": "CZECHIA",
+            "confirmed": "Confirmed: 189",
+            "deaths": "Deaths: 0",
+            "recovered": "Recovered: 0"
         },
         "geometry": {
             "type": "Point",
@@ -631,7 +799,10 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "GERMANY\rConfirmed: 4585\rDeaths: 9\rRecovered: 46"
+            "title": "GERMANY",
+            "confirmed": "Confirmed: 4585",
+            "deaths": "Deaths: 9",
+            "recovered": "Recovered: 46"
         },
         "geometry": {
             "type": "Point",
