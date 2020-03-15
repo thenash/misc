@@ -3,7 +3,7 @@
     "features": [{
         "type": "Feature",
         "properties": {
-            "title": "BEIJING",
+            "title": "BEIJING\rConfirmed: 437",
             "confirmed": "Confirmed: 437",
             "deaths": "Deaths: 8",
             "recovered": "Recovered: 349"
