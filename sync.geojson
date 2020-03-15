@@ -3,7 +3,7 @@
     "features": [{
         "type": "Feature",
         "properties": {
-            "title": "BEIJING, CHINA",
+            "title": "BEIJING",
             "confirmed": "Confirmed: 437",
             "deaths": "Deaths: 8",
             "recovered": "Recovered: 349"
@@ -18,7 +18,7 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "CALIFORNIA, US",
+            "title": "CALIFORNIA",
             "confirmed": "Confirmed: 340",
             "deaths": "Deaths: 5",
             "recovered": "Recovered: 6"
@@ -31,7 +31,7 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "FLORIDA, US",
+            "title": "FLORIDA",
             "confirmed": "Confirmed: 76",
             "deaths": "Deaths: 3",
             "recovered": "Recovered: 0"
@@ -44,7 +44,7 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "FRANCE, FRANCE",
+            "title": "FRANCE",
             "confirmed": "Confirmed: 4469",
             "deaths": "Deaths: 91",
             "recovered": "Recovered: 12"
@@ -59,7 +59,7 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "INDIANA, US",
+            "title": "INDIANA",
             "confirmed": "Confirmed: 16",
             "deaths": "Deaths: 0",
             "recovered": "Recovered: 0"
@@ -72,7 +72,7 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "MASSACHUSETTS, US",
+            "title": "MASSACHUSETTS",
             "confirmed": "Confirmed: 138",
             "deaths": "Deaths: 0",
             "recovered": "Recovered: 1"
@@ -85,7 +85,7 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "MICHIGAN, US",
+            "title": "MICHIGAN",
             "confirmed": "Confirmed: 25",
             "deaths": "Deaths: 0",
             "recovered": "Recovered: 0"
@@ -98,7 +98,7 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "NEW JERSEY, US",
+            "title": "NEW JERSEY",
             "confirmed": "Confirmed: 69",
             "deaths": "Deaths: 1",
             "recovered": "Recovered: 0"
@@ -111,7 +111,7 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "NEW SOUTH WALES, AUSTRALIA",
+            "title": "NEW SOUTH WALES",
             "confirmed": "Confirmed: 112",
             "deaths": "Deaths: 2",
             "recovered": "Recovered: 4"
@@ -126,7 +126,7 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "NEW YORK, US",
+            "title": "NEW YORK",
             "confirmed": "Confirmed: 525",
             "deaths": "Deaths: 2",
             "recovered": "Recovered: 0"
@@ -139,7 +139,7 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "NORTH CAROLINA, US",
+            "title": "NORTH CAROLINA",
             "confirmed": "Confirmed: 24",
             "deaths": "Deaths: 0",
             "recovered": "Recovered: 0"
@@ -152,7 +152,7 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "OHIO, US",
+            "title": "OHIO",
             "confirmed": "Confirmed: 26",
             "deaths": "Deaths: 0",
             "recovered": "Recovered: 0"
@@ -165,7 +165,7 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "ONTARIO, CANADA",
+            "title": "ONTARIO",
             "confirmed": "Confirmed: 79",
             "deaths": "Deaths: 0",
             "recovered": "Recovered: 4"
@@ -178,7 +178,7 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "PENNSYLVANIA, US",
+            "title": "PENNSYLVANIA",
             "confirmed": "Confirmed: 47",
             "deaths": "Deaths: 0",
             "recovered": "Recovered: 0"
@@ -191,7 +191,7 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "QUEBEC, CANADA",
+            "title": "QUEBEC",
             "confirmed": "Confirmed: 17",
             "deaths": "Deaths: 0",
             "recovered": "Recovered: 0"
@@ -204,7 +204,7 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "SHANGHAI, CHINA",
+            "title": "SHANGHAI",
             "confirmed": "Confirmed: 353",
             "deaths": "Deaths: 3",
             "recovered": "Recovered: 324"
@@ -219,7 +219,7 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "SOUTH AUSTRALIA, AUSTRALIA",
+            "title": "SOUTH AUSTRALIA",
             "confirmed": "Confirmed: 19",
             "deaths": "Deaths: 0",
             "recovered": "Recovered: 3"
@@ -234,7 +234,7 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "TEXAS, US",
+            "title": "TEXAS",
             "confirmed": "Confirmed: 57",
             "deaths": "Deaths: 0",
             "recovered": "Recovered: 0"
@@ -247,7 +247,7 @@
     }, {
         "type": "Feature",
         "properties": {
-            "title": "UNITED KINGDOM, UNITED KINGDOM",
+            "title": "UNITED KINGDOM",
             "confirmed": "Confirmed: 1140",
             "deaths": "Deaths: 21",
             "recovered": "Recovered: 18"
