@@ -1,0 +1,644 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "title": "BEIJING\rConfirmed: 437\rDeaths: 8\rRecovered: 349"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                116.4142, 40.1824, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAJ"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "CALIFORNIA\rConfirmed: 340\rDeaths: 5\rRecovered: 6"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-119.6816, 36.1162, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAAu"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "FLORIDA\rConfirmed: 76\rDeaths: 3\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-81.6868, 27.7663, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAAv"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "FRANCE\rConfirmed: 4469\rDeaths: 91\rRecovered: 12"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                2.2137, 46.2276, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAO"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "INDIANA\rConfirmed: 16\rDeaths: 0\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-86.2583, 39.8494, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAAw"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "MASSACHUSETTS\rConfirmed: 138\rDeaths: 0\rRecovered: 1"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.5301, 42.2302, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAAx"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "MICHIGAN\rConfirmed: 25\rDeaths: 0\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-84.5361, 43.3266, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAAy"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "NEW JERSEY\rConfirmed: 69\rDeaths: 1\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-74.521, 40.2989, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAAz"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "NEW SOUTH WALES\rConfirmed: 112\rDeaths: 2\rRecovered: 4"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                151.2093, -33.8688, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAB"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "NEW YORK\rConfirmed: 525\rDeaths: 2\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-74.9481, 42.1657, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAA0"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "NORTH CAROLINA\rConfirmed: 24\rDeaths: 0\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-79.8064, 35.6301, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAA1"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "OHIO\rConfirmed: 26\rDeaths: 0\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-82.7649, 40.3888, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAA2"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "ONTARIO\rConfirmed: 79\rDeaths: 0\rRecovered: 4"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-85.3232, 51.2538, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAAG"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "PENNSYLVANIA\rConfirmed: 47\rDeaths: 0\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-77.2098, 40.5908, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAA3"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "QUEBEC\rConfirmed: 17\rDeaths: 0\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-73.5491, 52.9399, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAAH"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "SHANGHAI\rConfirmed: 353\rDeaths: 3\rRecovered: 324"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121.4491, 31.202, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAK"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "SOUTH AUSTRALIA\rConfirmed: 19\rDeaths: 0\rRecovered: 3"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                138.6007, -34.9285, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAC"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "TEXAS\rConfirmed: 57\rDeaths: 0\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-97.5635, 31.0545, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAA4"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "UNITED KINGDOM\rConfirmed: 1140\rDeaths: 21\rRecovered: 18"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-3.436, 55.3781, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAAt"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "INDONESIA\rConfirmed: 96\rDeaths: 5\rRecovered: 8"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                113.9213, -0.7893, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAT"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "ISRAEL\rConfirmed: 193\rDeaths: 0\rRecovered: 4"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                35, 31, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAU"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "ITALY\rConfirmed: 21157\rDeaths: 1441\rRecovered: 1966"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                12, 43, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAV"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "JAPAN\rConfirmed: 773\rDeaths: 22\rRecovered: 118"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                138, 36, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAW"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "KOREA, SOUTH\rConfirmed: 8086\rDeaths: 72\rRecovered: 510"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                128, 36, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAX"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "LEBANON\rConfirmed: 93\rDeaths: 3\rRecovered: 1"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                35.8623, 33.8547, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAY"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "MALAYSIA\rConfirmed: 238\rDeaths: 0\rRecovered: 35"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                112.5, 2.5, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAZ"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "MEXICO\rConfirmed: 26\rDeaths: 0\rRecovered: 4"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-102.5528, 23.6345, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAAa"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "NETHERLANDS\rConfirmed: 959\rDeaths: 12\rRecovered: 2"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                5.2913, 52.1326, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAb"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "NEW ZEALAND\rConfirmed: 6\rDeaths: 0\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                174.886, -40.9006, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAc"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "PERU\rConfirmed: 38\rDeaths: 0\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-75.0152, -9.19, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAAd"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "PHILIPPINES\rConfirmed: 111\rDeaths: 8\rRecovered: 2"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                122, 13, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAe"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "POLAND\rConfirmed: 103\rDeaths: 3\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19.1451, 51.9194, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAf"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "PORTUGAL\rConfirmed: 169\rDeaths: 0\rRecovered: 2"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-8.2245, 39.3999, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAAg"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "ROMANIA\rConfirmed: 123\rDeaths: 0\rRecovered: 9"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                24.9668, 45.9432, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAh"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "RUSSIA\rConfirmed: 59\rDeaths: 0\rRecovered: 8"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                90, 60, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAi"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "SERBIA\rConfirmed: 46\rDeaths: 0\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                21.0059, 44.0165, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAj"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "SLOVAKIA\rConfirmed: 44\rDeaths: 0\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19.699, 48.669, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAk"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "SOUTH AFRICA\rConfirmed: 38\rDeaths: 0\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                22.9375, -30.5595, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAl"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "SPAIN\rConfirmed: 6391\rDeaths: 195\rRecovered: 517"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-4, 40, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAAm"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "SWEDEN\rConfirmed: 961\rDeaths: 2\rRecovered: 1"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                16, 63, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAn"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "TAIWAN*\rConfirmed: 53\rDeaths: 1\rRecovered: 20"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                121, 23.7, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAo"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "THAILAND\rConfirmed: 82\rDeaths: 1\rRecovered: 35"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                101, 15, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAp"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "TURKEY\rConfirmed: 5\rDeaths: 0\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                35.2433, 38.9637, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAq"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "UKRAINE\rConfirmed: 3\rDeaths: 1\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                31.1656, 48.3794, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAr"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "UNITED ARAB EMIRATES\rConfirmed: 85\rDeaths: 0\rRecovered: 17"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                54, 24, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAs"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "COLOMBIA\rConfirmed: 22\rDeaths: 0\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-74.2973, 4.5709, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAAL"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "CHILE\rConfirmed: 61\rDeaths: 0\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-71.543, -35.6751, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAAI"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "BULGARIA\rConfirmed: 41\rDeaths: 2\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                25.4858, 42.7339, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAF"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "BRAZIL\rConfirmed: 151\rDeaths: 0\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-51.9253, -14.235, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAAE"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "BELGIUM\rConfirmed: 689\rDeaths: 4\rRecovered: 1"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                4, 50.8333, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAD"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "ARGENTINA\rConfirmed: 34\rDeaths: 2\rRecovered: 1"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [-63.6167, -38.4161, 10]
+        },
+        "id": "AAAgMjAAeAAAAJEAAA"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "INDIA\rConfirmed: 102\rDeaths: 2\rRecovered: 4"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                78, 21, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAS"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "HUNGARY\rConfirmed: 30\rDeaths: 0\rRecovered: 1"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                19.5033, 47.1625, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAR"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "GREECE\rConfirmed: 228\rDeaths: 3\rRecovered: 8"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                21.8243, 39.0742, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAQ"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "EGYPT\rConfirmed: 109\rDeaths: 2\rRecovered: 27"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                30, 26, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAN"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "CZECHIA\rConfirmed: 189\rDeaths: 0\rRecovered: 0"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                15.473, 49.8175, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAM"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "title": "GERMANY\rConfirmed: 4585\rDeaths: 9\rRecovered: 46"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [
+                9, 51, 10
+            ]
+        },
+        "id": "AAAgMjAAeAAAAJEAAP"
+    }]
+}
