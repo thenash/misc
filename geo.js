@@ -17,7 +17,7 @@ function GetMap() {
 
     //Add click event to the layer.
     Microsoft.Maps.Events.addHandler(covidLayer, 'click', showInfobox);
-    Microsoft.Maps.Events.addHandler(synhLayer, 'click', showInfobox);
+    Microsoft.Maps.Events.addHandler(synhLayer, 'click', showInfobox2);
 
     //Load the GeoJSON module and read the GeoJSON feed.
     Microsoft.Maps.loadModule('Microsoft.Maps.GeoJson', function() {
@@ -46,6 +46,24 @@ function showInfobox(e) {
     infobox.setOptions({
         location: loc,
         title: shape.metadata.title + "\n" + shape.metadata.confirmed + "\n" + shape.metadata.deaths + "\n" + shape.metadata.recovered,
+        visible: true
+    });
+}
+
+
+function showInfobox2(e) {
+    var shape = e.target; //Get the clicked shape.
+    var loc = e.location; //Default to the location of the mouse event to show the infobox.
+
+    //If the shape is a pushpin, use it's location to display the infobox.
+    if (shape instanceof Microsoft.Maps.Pushpin) {
+        loc = shape.getLocation();
+    }
+
+    //Display the infoboc
+    infobox.setOptions({
+        location: loc,
+        title: shape.metadata.title + "\n" + shape.metadata.office_location,
         visible: true
     });
 }
