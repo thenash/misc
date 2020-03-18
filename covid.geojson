@@ -1,0 +1,1089 @@
+{
+"type":"FeatureCollection"
+,"features":[
+{
+"type":"Feature"
+,"properties":{
+"title":"BEIJING"
+,"confirmed":"Confirmed: 442"
+,"deaths":"Deaths: 8"
+,"recovered":"Recovered: 353"
+,"description":"BEIJING\rConfirmed: 442\rDeaths: 8\rRecovered: 353"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+116.4142
+,40.1824
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAJ"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"CALIFORNIA"
+,"confirmed":"Confirmed: 426"
+,"deaths":"Deaths: 6"
+,"recovered":"Recovered: 6"
+,"description":"CALIFORNIA\rConfirmed: 426\rDeaths: 6\rRecovered: 6"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-119.6816
+,36.1162
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAu"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"FLORIDA"
+,"confirmed":"Confirmed: 115"
+,"deaths":"Deaths: 4"
+,"recovered":"Recovered: 0"
+,"description":"FLORIDA\rConfirmed: 115\rDeaths: 4\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-81.6868
+,27.7663
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAv"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"FRANCE"
+,"confirmed":"Confirmed: 4499"
+,"deaths":"Deaths: 91"
+,"recovered":"Recovered: 12"
+,"description":"FRANCE\rConfirmed: 4499\rDeaths: 91\rRecovered: 12"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+2.2137
+,46.2276
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAO"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"INDIANA"
+,"confirmed":"Confirmed: 20"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 0"
+,"description":"INDIANA\rConfirmed: 20\rDeaths: 0\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-86.2583
+,39.8494
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAw"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"MASSACHUSETTS"
+,"confirmed":"Confirmed: 164"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 1"
+,"description":"MASSACHUSETTS\rConfirmed: 164\rDeaths: 0\rRecovered: 1"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-71.5301
+,42.2302
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAx"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"MICHIGAN"
+,"confirmed":"Confirmed: 33"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 0"
+,"description":"MICHIGAN\rConfirmed: 33\rDeaths: 0\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-84.5361
+,43.3266
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAy"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"NEW JERSEY"
+,"confirmed":"Confirmed: 98"
+,"deaths":"Deaths: 2"
+,"recovered":"Recovered: 0"
+,"description":"NEW JERSEY\rConfirmed: 98\rDeaths: 2\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-74.521
+,40.2989
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAz"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"NEW SOUTH WALES"
+,"confirmed":"Confirmed: 134"
+,"deaths":"Deaths: 2"
+,"recovered":"Recovered: 4"
+,"description":"NEW SOUTH WALES\rConfirmed: 134\rDeaths: 2\rRecovered: 4"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+151.2093
+,-33.8688
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAB"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"NEW YORK"
+,"confirmed":"Confirmed: 732"
+,"deaths":"Deaths: 3"
+,"recovered":"Recovered: 0"
+,"description":"NEW YORK\rConfirmed: 732\rDeaths: 3\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-74.9481
+,42.1657
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAA0"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"NORTH CAROLINA"
+,"confirmed":"Confirmed: 33"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 0"
+,"description":"NORTH CAROLINA\rConfirmed: 33\rDeaths: 0\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-79.8064
+,35.6301
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAA1"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"OHIO"
+,"confirmed":"Confirmed: 37"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 0"
+,"description":"OHIO\rConfirmed: 37\rDeaths: 0\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-82.7649
+,40.3888
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAA2"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"ONTARIO"
+,"confirmed":"Confirmed: 104"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 4"
+,"description":"ONTARIO\rConfirmed: 104\rDeaths: 0\rRecovered: 4"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-85.3232
+,51.2538
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAG"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"PENNSYLVANIA"
+,"confirmed":"Confirmed: 66"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 0"
+,"description":"PENNSYLVANIA\rConfirmed: 66\rDeaths: 0\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-77.2098
+,40.5908
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAA3"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"QUEBEC"
+,"confirmed":"Confirmed: 24"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 0"
+,"description":"QUEBEC\rConfirmed: 24\rDeaths: 0\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-73.5491
+,52.9399
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAH"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"SHANGHAI"
+,"confirmed":"Confirmed: 353"
+,"deaths":"Deaths: 3"
+,"recovered":"Recovered: 324"
+,"description":"SHANGHAI\rConfirmed: 353\rDeaths: 3\rRecovered: 324"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+121.4491
+,31.202
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAK"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"SOUTH AUSTRALIA"
+,"confirmed":"Confirmed: 20"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 3"
+,"description":"SOUTH AUSTRALIA\rConfirmed: 20\rDeaths: 0\rRecovered: 3"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+138.6007
+,-34.9285
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAC"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"TEXAS"
+,"confirmed":"Confirmed: 72"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 0"
+,"description":"TEXAS\rConfirmed: 72\rDeaths: 0\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-97.5635
+,31.0545
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAA4"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"UNITED KINGDOM"
+,"confirmed":"Confirmed: 1140"
+,"deaths":"Deaths: 21"
+,"recovered":"Recovered: 18"
+,"description":"UNITED KINGDOM\rConfirmed: 1140\rDeaths: 21\rRecovered: 18"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-3.436
+,55.3781
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAt"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"INDONESIA"
+,"confirmed":"Confirmed: 117"
+,"deaths":"Deaths: 5"
+,"recovered":"Recovered: 8"
+,"description":"INDONESIA\rConfirmed: 117\rDeaths: 5\rRecovered: 8"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+113.9213
+,-0.7893
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAT"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"ISRAEL"
+,"confirmed":"Confirmed: 251"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 4"
+,"description":"ISRAEL\rConfirmed: 251\rDeaths: 0\rRecovered: 4"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+35
+,31
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAU"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"ITALY"
+,"confirmed":"Confirmed: 24747"
+,"deaths":"Deaths: 1809"
+,"recovered":"Recovered: 2335"
+,"description":"ITALY\rConfirmed: 24747\rDeaths: 1809\rRecovered: 2335"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+12
+,43
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAV"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"JAPAN"
+,"confirmed":"Confirmed: 839"
+,"deaths":"Deaths: 22"
+,"recovered":"Recovered: 118"
+,"description":"JAPAN\rConfirmed: 839\rDeaths: 22\rRecovered: 118"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+138
+,36
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAW"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"KOREA, SOUTH"
+,"confirmed":"Confirmed: 8162"
+,"deaths":"Deaths: 75"
+,"recovered":"Recovered: 510"
+,"description":"KOREA, SOUTH\rConfirmed: 8162\rDeaths: 75\rRecovered: 510"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+128
+,36
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAX"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"LEBANON"
+,"confirmed":"Confirmed: 110"
+,"deaths":"Deaths: 3"
+,"recovered":"Recovered: 1"
+,"description":"LEBANON\rConfirmed: 110\rDeaths: 3\rRecovered: 1"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+35.8623
+,33.8547
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAY"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"MALAYSIA"
+,"confirmed":"Confirmed: 428"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 42"
+,"description":"MALAYSIA\rConfirmed: 428\rDeaths: 0\rRecovered: 42"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+112.5
+,2.5
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAZ"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"MEXICO"
+,"confirmed":"Confirmed: 41"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 4"
+,"description":"MEXICO\rConfirmed: 41\rDeaths: 0\rRecovered: 4"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-102.5528
+,23.6345
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAa"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"NETHERLANDS"
+,"confirmed":"Confirmed: 1135"
+,"deaths":"Deaths: 20"
+,"recovered":"Recovered: 2"
+,"description":"NETHERLANDS\rConfirmed: 1135\rDeaths: 20\rRecovered: 2"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+5.2913
+,52.1326
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAb"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"NEW ZEALAND"
+,"confirmed":"Confirmed: 8"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 0"
+,"description":"NEW ZEALAND\rConfirmed: 8\rDeaths: 0\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+174.886
+,-40.9006
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAc"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"PERU"
+,"confirmed":"Confirmed: 43"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 0"
+,"description":"PERU\rConfirmed: 43\rDeaths: 0\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-75.0152
+,-9.19
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAd"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"PHILIPPINES"
+,"confirmed":"Confirmed: 140"
+,"deaths":"Deaths: 11"
+,"recovered":"Recovered: 2"
+,"description":"PHILIPPINES\rConfirmed: 140\rDeaths: 11\rRecovered: 2"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+122
+,13
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAe"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"POLAND"
+,"confirmed":"Confirmed: 119"
+,"deaths":"Deaths: 3"
+,"recovered":"Recovered: 0"
+,"description":"POLAND\rConfirmed: 119\rDeaths: 3\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+19.1451
+,51.9194
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAf"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"PORTUGAL"
+,"confirmed":"Confirmed: 245"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 2"
+,"description":"PORTUGAL\rConfirmed: 245\rDeaths: 0\rRecovered: 2"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-8.2245
+,39.3999
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAg"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"ROMANIA"
+,"confirmed":"Confirmed: 131"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 9"
+,"description":"ROMANIA\rConfirmed: 131\rDeaths: 0\rRecovered: 9"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+24.9668
+,45.9432
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAh"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"RUSSIA"
+,"confirmed":"Confirmed: 63"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 8"
+,"description":"RUSSIA\rConfirmed: 63\rDeaths: 0\rRecovered: 8"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+90
+,60
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAi"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"SERBIA"
+,"confirmed":"Confirmed: 48"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 0"
+,"description":"SERBIA\rConfirmed: 48\rDeaths: 0\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+21.0059
+,44.0165
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAj"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"SLOVAKIA"
+,"confirmed":"Confirmed: 54"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 0"
+,"description":"SLOVAKIA\rConfirmed: 54\rDeaths: 0\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+19.699
+,48.669
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAk"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"SOUTH AFRICA"
+,"confirmed":"Confirmed: 51"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 0"
+,"description":"SOUTH AFRICA\rConfirmed: 51\rDeaths: 0\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+22.9375
+,-30.5595
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAl"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"SPAIN"
+,"confirmed":"Confirmed: 7798"
+,"deaths":"Deaths: 289"
+,"recovered":"Recovered: 517"
+,"description":"SPAIN\rConfirmed: 7798\rDeaths: 289\rRecovered: 517"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-4
+,40
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAm"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"SWEDEN"
+,"confirmed":"Confirmed: 1022"
+,"deaths":"Deaths: 3"
+,"recovered":"Recovered: 1"
+,"description":"SWEDEN\rConfirmed: 1022\rDeaths: 3\rRecovered: 1"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+16
+,63
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAn"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"TAIWAN*"
+,"confirmed":"Confirmed: 59"
+,"deaths":"Deaths: 1"
+,"recovered":"Recovered: 20"
+,"description":"TAIWAN*\rConfirmed: 59\rDeaths: 1\rRecovered: 20"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+121
+,23.7
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAo"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"THAILAND"
+,"confirmed":"Confirmed: 114"
+,"deaths":"Deaths: 1"
+,"recovered":"Recovered: 35"
+,"description":"THAILAND\rConfirmed: 114\rDeaths: 1\rRecovered: 35"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+101
+,15
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAp"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"TURKEY"
+,"confirmed":"Confirmed: 6"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 0"
+,"description":"TURKEY\rConfirmed: 6\rDeaths: 0\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+35.2433
+,38.9637
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAq"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"UKRAINE"
+,"confirmed":"Confirmed: 3"
+,"deaths":"Deaths: 1"
+,"recovered":"Recovered: 0"
+,"description":"UKRAINE\rConfirmed: 3\rDeaths: 1\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+31.1656
+,48.3794
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAr"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"UNITED ARAB EMIRATES"
+,"confirmed":"Confirmed: 98"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 23"
+,"description":"UNITED ARAB EMIRATES\rConfirmed: 98\rDeaths: 0\rRecovered: 23"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+54
+,24
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAs"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"COLOMBIA"
+,"confirmed":"Confirmed: 34"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 0"
+,"description":"COLOMBIA\rConfirmed: 34\rDeaths: 0\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-74.2973
+,4.5709
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAL"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"CHILE"
+,"confirmed":"Confirmed: 74"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 0"
+,"description":"CHILE\rConfirmed: 74\rDeaths: 0\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-71.543
+,-35.6751
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAI"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"BULGARIA"
+,"confirmed":"Confirmed: 51"
+,"deaths":"Deaths: 2"
+,"recovered":"Recovered: 0"
+,"description":"BULGARIA\rConfirmed: 51\rDeaths: 2\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+25.4858
+,42.7339
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAF"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"BRAZIL"
+,"confirmed":"Confirmed: 162"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 0"
+,"description":"BRAZIL\rConfirmed: 162\rDeaths: 0\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-51.9253
+,-14.235
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAE"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"BELGIUM"
+,"confirmed":"Confirmed: 886"
+,"deaths":"Deaths: 4"
+,"recovered":"Recovered: 1"
+,"description":"BELGIUM\rConfirmed: 886\rDeaths: 4\rRecovered: 1"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+4
+,50.8333
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAD"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"ARGENTINA"
+,"confirmed":"Confirmed: 45"
+,"deaths":"Deaths: 2"
+,"recovered":"Recovered: 1"
+,"description":"ARGENTINA\rConfirmed: 45\rDeaths: 2\rRecovered: 1"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+-63.6167
+,-38.4161
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAA"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"INDIA"
+,"confirmed":"Confirmed: 113"
+,"deaths":"Deaths: 2"
+,"recovered":"Recovered: 13"
+,"description":"INDIA\rConfirmed: 113\rDeaths: 2\rRecovered: 13"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+78
+,21
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAS"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"HUNGARY"
+,"confirmed":"Confirmed: 32"
+,"deaths":"Deaths: 1"
+,"recovered":"Recovered: 1"
+,"description":"HUNGARY\rConfirmed: 32\rDeaths: 1\rRecovered: 1"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+19.5033
+,47.1625
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAR"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"GREECE"
+,"confirmed":"Confirmed: 331"
+,"deaths":"Deaths: 4"
+,"recovered":"Recovered: 8"
+,"description":"GREECE\rConfirmed: 331\rDeaths: 4\rRecovered: 8"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+21.8243
+,39.0742
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAQ"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"EGYPT"
+,"confirmed":"Confirmed: 110"
+,"deaths":"Deaths: 2"
+,"recovered":"Recovered: 21"
+,"description":"EGYPT\rConfirmed: 110\rDeaths: 2\rRecovered: 21"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+30
+,26
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAN"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"CZECHIA"
+,"confirmed":"Confirmed: 253"
+,"deaths":"Deaths: 0"
+,"recovered":"Recovered: 0"
+,"description":"CZECHIA\rConfirmed: 253\rDeaths: 0\rRecovered: 0"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+15.473
+,49.8175
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAM"
+}
+,{
+"type":"Feature"
+,"properties":{
+"title":"GERMANY"
+,"confirmed":"Confirmed: 5795"
+,"deaths":"Deaths: 11"
+,"recovered":"Recovered: 46"
+,"description":"GERMANY\rConfirmed: 5795\rDeaths: 11\rRecovered: 46"
+}
+,"geometry":{
+"type":"Point"
+,"coordinates":[
+9
+,51
+,10
+]
+}
+,"id":"AAAgMjAAeAAAAJGAAP"
+}
+]
+}
+
