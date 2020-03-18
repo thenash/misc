@@ -4,70 +4,7 @@
 <head>
     <title></title>
     <meta charset="utf-8" />
-    <script type='text/javascript'>
-        var map, infobox, covidLayer, synhLayer;
-        var synhData = 'https://raw.githubusercontent.com/thenash/misc/master/synhlocations.geojson';
-        var covidData = 'https://raw.githubusercontent.com/thenash/misc/master/covid.geojson';
-
-        function GetMap() {
-            map = new Microsoft.Maps.Map('#myMap', {
-                zoom: 2
-            });
-
-            //Create an infobox.
-            infobox = new Microsoft.Maps.Infobox(map.getCenter(), {
-                visible: false
-            });
-            infobox.setMap(map);
-
-
-            //Create a layer to add the GeoJSON data to.
-            synhLayer = new Microsoft.Maps.Layer();
-            map.layers.insert(synhLayer);
-            //Add click event to the layer.
-            Microsoft.Maps.Events.addHandler(synhLayer, 'click', showInfobox);
-
-            //Create a layer to add the GeoJSON data to.
-            covidLayer = new Microsoft.Maps.Layer();
-            map.layers.insert(covidLayer);
-            //Add click event to the layer.
-            Microsoft.Maps.Events.addHandler(covidLayer, 'click', showInfobox);
-
-            //Load the GeoJSON module and read the GeoJSON feed.
-            Microsoft.Maps.loadModule('Microsoft.Maps.GeoJson', function() {
-                /*
-                Microsoft.Maps.GeoJson.readFromUrl(synhData, function(shapes) {
-                    //Add shapes to the layer.
-                    synhLayer.add(shapes);
-                });
-                */
-
-                Microsoft.Maps.GeoJson.readFromUrl(covidData, function(shapes) {
-                    //Add shapes to the layer.
-                    synhLayer.add(shapes);
-                });
-
-            });
-        }
-
-        function showInfobox(e) {
-            var shape = e.target; //Get the clicked shape.
-            var loc = e.location; //Default to the location of the mouse event to show the infobox.
-
-            //If the shape is a pushpin, use it's location to display the infobox.
-            if (shape instanceof Microsoft.Maps.Pushpin) {
-                loc = shape.getLocation();
-            }
-
-            //Display the infoboc
-            infobox.setOptions({
-                location: loc,
-                title: shape.metadata.office_address,
-                visible: true
-            });
-        }
-    </script>
-    <!-- <script type='text/javascript' src='./geo.js'></script>-->
+    <script type='text/javascript' src='./geo.js'></script>
     <script type='text/javascript' src='https://www.bing.com/api/maps/mapcontrol?callback=GetMap&key=Ate83Y4sL4eOw8t8lQ9L_8wtG6abbO8-zpBnDYn5hXHQMtOg-vIJ5bvItBMi0x2q' async defer></script>
 </head>
 
