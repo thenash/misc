@@ -1,553 +1,551 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<feed xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:mappoint="http://virtualearth.msn.com/apis/annotate#" xmlns="http://www.w3.org/2005/Atom">
- <entry>
-        <georss:point>45.45987 9.20536</georss:point>
-        <title>Viale regina Margherita - Rotonda Besana</title>
+<feed xmlns:georss="http://www.georss.org/georss" 
+    xmlns:gml="http://www.opengis.net/gml" 
+    xmlns:mappoint="http://virtualearth.msn.com/apis/annotate#" 
+    xmlns="http://www.w3.org/2005/Atom">
+    <entry>
+        <georss:point>42.210681 -83.745468</georss:point>
+        <title>Ann Arbor, Michigan, USA</title>
         <icon>synh.png</icon>
     </entry>
- <event>
-  <georss:point>42.484397 -71.195815</georss:point>
-  <title>Ann Arbor, Michigan, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>31.230878 121.464561</georss:point>
-  <title>Austin, Texas, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>40.140508 -82.962034</georss:point>
-  <title>Blue Bell, Pennsylvania, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>42.699733 23.308202</georss:point>
-  <title>Boston, Massachusetts, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>44.437272 26.105182</georss:point>
-  <title>Burlington, Ontario</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>43.053986 -73.786931</georss:point>
-  <title>Burlington, Massachusetts, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>35.632491 139.743066</georss:point>
-  <title>Charlotte, North Carolina, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>40.233187 -74.896085</georss:point>
-  <title>Columbus, Ohio, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>39.907097 116.45913</georss:point>
-  <title>Indianapolis, Indiana, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>33.865171 35.56234</georss:point>
-  <title>Irvine, California, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>33.683244 -117.844014</georss:point>
-  <title>Irving, Texas, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>27.944581 -82.525241</georss:point>
-  <title>Miami, Florida, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>46.794093 -71.298781</georss:point>
-  <title>Montreal, Quebec</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>37.499994 127.036507</georss:point>
-  <title>Morrisville, North Carolina, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>41.388588 2.130409</georss:point>
-  <title>New York, New York, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>40.448284 -3.703495</georss:point>
-  <title>Newtown, Pennsylvania, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>40.532173 -74.52161</georss:point>
-  <title>Princeton, New Jersey, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>48.140798 11.649601</georss:point>
-  <title>Quebec City, Quebec</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>34.239827 -77.86826</georss:point>
-  <title>Santa Monica, California, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>43.727182 -79.339603</georss:point>
-  <title>Saratoga Springs, New York, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>40.713976 -74.014793</georss:point>
-  <title>Somerset, New Jersey, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>38.035592 23.826857</georss:point>
-  <title>South San Francisco, California, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>28.467652 77.041259</georss:point>
-  <title>Tampa, Florida, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>44.807598 20.465766</georss:point>
-  <title>Toronto, Ontario</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>40.356919 -74.596029</georss:point>
-  <title>Westerville, Ohio, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>34.699056 135.492277</georss:point>
-  <title>Wilmington, North Carolina, USA</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>4.692352 -74.034325</georss:point>
-  <title>Bogotá, Colombia</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>-34.546466 -58.457918</georss:point>
-  <title>Buenos Aires, Argentina</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>-34.597704 -58.370938</georss:point>
-  <title>Buenos Aires, Argentina</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>-12.122005 -77.011899</georss:point>
-  <title>Lima, Peru</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>19.51995 -99.212565</georss:point>
-  <title>Mexico City, Mexico</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>22.286249 114.21359</georss:point>
-  <title>Mexico City, Mexico (North)</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>19.340019 -99.191143</georss:point>
-  <title>Mexico City, Mexico (South)</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>-22.954003 -43.181226</georss:point>
-  <title>Rio De Janeiro, Brazil</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>-33.404727 -70.574135</georss:point>
-  <title>Santiago, Chile</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>-33.420818 -70.606857</georss:point>
-  <title>Santiago, Chile</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>-23.603816 -46.695669</georss:point>
-  <title>São Paulo, Brazil</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>55.736715 37.597499</georss:point>
-  <title>Amsterdam, The Netherlands</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>42.354189 -71.051355</georss:point>
-  <title>Barcelona, Spain</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>42.210681 -83.745468</georss:point>
-  <title>Barcelona, Spain</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>45.483996 -73.630965</georss:point>
-  <title>Belgrade, Serbia</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>55.859284 -3.206489</georss:point>
-  <title>Berlin, Germany</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>49.15249 -0.478179</georss:point>
-  <title>Bratislava, Slovakia</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>45.461285 9.189124</georss:point>
-  <title>Bucharest, Romania</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>48.150423 17.089571</georss:point>
-  <title>Budapest, Hungary</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>59.92092 30.387851</georss:point>
-  <title>Edinburgh, United Kingdom</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>52.312366 4.940266</georss:point>
-  <title>Farnborough, United Kingdom</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>50.045237 19.914562</georss:point>
-  <title>Guichainville, France</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>41.397412 2.161111</georss:point>
-  <title>Istanbul, Turkey</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>50.888888 4.449851</georss:point>
-  <title>Kiev, Ukraine</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>50.869413 0.000493</georss:point>
-  <title>Kiev, Ukraine</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>51.099269 6.939046</georss:point>
-  <title>Kiev, Ukraine</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>50.419093 30.655005</georss:point>
-  <title>Kraków, Poland</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>52.235675 20.979481</georss:point>
-  <title>Langenfeld, Germany</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>51.28476 -0.762857</georss:point>
-  <title>Lewes, United Kingdom</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>38.858279 121.527892</georss:point>
-  <title>Lisbon, Portugal</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>52.50239 13.330993</georss:point>
-  <title>London, United Kingdom</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>51.517451 -0.123923</georss:point>
-  <title>Machalen, Belgium</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>40.553054 -3.898982</georss:point>
-  <title>Madrid, Spain</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>40.990859 29.075042</georss:point>
-  <title>Madrid, Spain</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>45.626876 9.037358</georss:point>
-  <title>Milan, Italy</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>59.347433 18.038055</georss:point>
-  <title>Moscow, Russia</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>59.857365 17.640566</georss:point>
-  <title>Moscow, Russia</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>50.057089 14.432849</georss:point>
-  <title>Mouen, France</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>48.820072 2.323302</georss:point>
-  <title>Munich, Germany</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>50.067519 8.248837</georss:point>
-  <title>Neu-Isenburg, Germany</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>48.977341 1.154003</georss:point>
-  <title>Nice, France</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>50.042621 8.693518</georss:point>
-  <title>Paris, France</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>50.4501 30.5234</georss:point>
-  <title>Prague, Czech Republic</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>47.49544 19.018523</georss:point>
-  <title>Saronno, Italy</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>43.395831 -79.763031</georss:point>
-  <title>Sofia, Bulgaria</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>40.140508 -82.962034</georss:point>
-  <title>St. Petersburg, Russia</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>59.347433 18.038055</georss:point>
-  <title>Stockholm, Sweden</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>18.563268 73.884595</georss:point>
-  <title>Uppsala, Sweden</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>38.774421 -9.097461</georss:point>
-  <title>Vrilissia, Greece</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>55.728826 37.643379</georss:point>
-  <title>Warsaw, Poland</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>50.451211 30.497723</georss:point>
-  <title>Wiesbaden, Germany</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>-34.905135 138.572945</georss:point>
-  <title>Adelaide, Australia</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>-36.740982 174.723773</georss:point>
-  <title>Auckland, New Zealand</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>13.7391 100.548</georss:point>
-  <title>Bangkok, Thailand</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>40.135559 -75.279667</georss:point>
-  <title>Beijing, China</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>13.048147 77.622188</georss:point>
-  <title>Bengaluru, India</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>39.763456 -86.147353</georss:point>
-  <title>Dalian, China</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>30.100946 31.370612</georss:point>
-  <title>Gurgaon, India</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>28.489029 77.085101</georss:point>
-  <title>Gurgaon, India</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>28.496539 77.094283</georss:point>
-  <title>Gurgaon, India</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>25.054697 121.549631</georss:point>
-  <title>Hong Kong</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>17.436831 78.383045</georss:point>
-  <title>Hyderabad, India</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>17.447878 78.355125</georss:point>
-  <title>Hyderabad, India</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>-6.21374 106.817574</georss:point>
-  <title>Jakarta, Indonesia</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>3.119934 101.676535</georss:point>
-  <title>Kuala Lumpur, Malaysia</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>14.557264 121.021859</georss:point>
-  <title>Makati City, Philippines</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>35.05855 -80.83873</georss:point>
-  <title>Osaka, Japan</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>14.585908 121.060247</georss:point>
-  <title>Pasig City, Philippines</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>18.563268 73.884595</georss:point>
-  <title>Pune, India</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>19.306405 -99.206477</georss:point>
-  <title>Pune, India</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>37.658149 -122.399406</georss:point>
-  <title>Seoul, South Korea</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>32.055446 34.862469</georss:point>
-  <title>Shanghai, China</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>1.301626 103.792179</georss:point>
-  <title>Singapore</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>-33.751772 151.146965</georss:point>
-  <title>Sydney, Australia</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>25.261774 55.371729</georss:point>
-  <title>Taipei, Taiwan</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>35.862655 -78.828411</georss:point>
-  <title>Tokyo, Japan</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>35.682611 139.772626</georss:point>
-  <title>Tokyo, Japan</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>25.794753 -80.20651</georss:point>
-  <title>Dubai, United Arab Emirates</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>32.921107 -96.970072</georss:point>
-  <title>Kiryat Ono, Israel</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>34.020642 -118.49224</georss:point>
-  <title>Mar Roukoz, Lebanon</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>30.243122 -97.845622</georss:point>
-  <title>Cairo, Egypt</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>-26.143588 28.042392</georss:point>
-  <title>Johannesburg, South Africa</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
- <event>
-  <georss:point>-29.1055 26.1942</georss:point>
-  <title>Bloemfontein, South Africa</title>
-  <icon>https://bingmapsv8samples.azurewebsites.net/Common/images/pushpins/ylw-pushpin.png</icon>
- </event>
+    <entry>
+        <georss:point>30.243122 -97.845622</georss:point>
+        <title>Austin, Texas, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>40.135559 -75.279667</georss:point>
+        <title>Blue Bell, Pennsylvania, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>42.354189 -71.051355</georss:point>
+        <title>Boston, Massachusetts, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>43.395831 -79.763031</georss:point>
+        <title>Burlington, Ontario</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>42.484397 -71.195815</georss:point>
+        <title>Burlington, Massachusetts, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>35.05855 -80.83873</georss:point>
+        <title>Charlotte, North Carolina, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>40.140508 -82.962034</georss:point>
+        <title>Columbus, Ohio, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>39.763456 -86.147353</georss:point>
+        <title>Indianapolis, Indiana, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>33.683244 -117.844014</georss:point>
+        <title>Irvine, California, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>32.921107 -96.970072</georss:point>
+        <title>Irving, Texas, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>25.794753 -80.20651</georss:point>
+        <title>Miami, Florida, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>45.483996 -73.630965</georss:point>
+        <title>Montreal, Quebec</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>35.862655 -78.828411</georss:point>
+        <title>Morrisville, North Carolina, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>40.713976 -74.014793</georss:point>
+        <title>New York, New York, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>40.233187 -74.896085</georss:point>
+        <title>Newtown, Pennsylvania, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>40.356919 -74.596029</georss:point>
+        <title>Princeton, New Jersey, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>46.794093 -71.298781</georss:point>
+        <title>Quebec City, Quebec</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>34.020642 -118.49224</georss:point>
+        <title>Santa Monica, California, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>43.053986 -73.786931</georss:point>
+        <title>Saratoga Springs, New York, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>40.532173 -74.52161</georss:point>
+        <title>Somerset, New Jersey, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>37.658149 -122.399406</georss:point>
+        <title>South San Francisco, California, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>27.944581 -82.525241</georss:point>
+        <title>Tampa, Florida, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>43.727182 -79.339603</georss:point>
+        <title>Toronto, Ontario</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>40.140508 -82.962034</georss:point>
+        <title>Westerville, Ohio, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>34.239827 -77.86826</georss:point>
+        <title>Wilmington, North Carolina, USA</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>4.692352 -74.034325</georss:point>
+        <title>Bogotá, Colombia</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>-34.546466 -58.457918</georss:point>
+        <title>Buenos Aires, Argentina</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>-34.597704 -58.370938</georss:point>
+        <title>Buenos Aires, Argentina</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>-12.122005 -77.011899</georss:point>
+        <title>Lima, Peru</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>19.340019 -99.191143</georss:point>
+        <title>Mexico City, Mexico</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>19.51995 -99.212565</georss:point>
+        <title>Mexico City, Mexico (North)</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>19.306405 -99.206477</georss:point>
+        <title>Mexico City, Mexico (South)</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>-22.954003 -43.181226</georss:point>
+        <title>Rio De Janeiro, Brazil</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>-33.404727 -70.574135</georss:point>
+        <title>Santiago, Chile</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>-33.420818 -70.606857</georss:point>
+        <title>Santiago, Chile</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>-23.603816 -46.695669</georss:point>
+        <title>São Paulo, Brazil</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>52.312366 4.940266</georss:point>
+        <title>Amsterdam, The Netherlands</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>41.397412 2.161111</georss:point>
+        <title>Barcelona, Spain</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>41.388588 2.130409</georss:point>
+        <title>Barcelona, Spain</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>44.807598 20.465766</georss:point>
+        <title>Belgrade, Serbia</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>52.50239 13.330993</georss:point>
+        <title>Berlin, Germany</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>48.150423 17.089571</georss:point>
+        <title>Bratislava, Slovakia</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>44.437272 26.105182</georss:point>
+        <title>Bucharest, Romania</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>47.49544 19.018523</georss:point>
+        <title>Budapest, Hungary</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>55.859284 -3.206489</georss:point>
+        <title>Edinburgh, United Kingdom</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>51.28476 -0.762857</georss:point>
+        <title>Farnborough, United Kingdom</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>48.977341 1.154003</georss:point>
+        <title>Guichainville, France</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>40.990859 29.075042</georss:point>
+        <title>Istanbul, Turkey</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>50.4501 30.5234</georss:point>
+        <title>Kiev, Ukraine</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>50.419093 30.655005</georss:point>
+        <title>Kiev, Ukraine</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>50.451211 30.497723</georss:point>
+        <title>Kiev, Ukraine</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>50.045237 19.914562</georss:point>
+        <title>Kraków, Poland</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>51.099269 6.939046</georss:point>
+        <title>Langenfeld, Germany</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>50.869413 0.000493</georss:point>
+        <title>Lewes, United Kingdom</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>38.774421 -9.097461</georss:point>
+        <title>Lisbon, Portugal</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>51.517451 -0.123923</georss:point>
+        <title>London, United Kingdom</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>50.888888 4.449851</georss:point>
+        <title>Machalen, Belgium</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>40.448284 -3.703495</georss:point>
+        <title>Madrid, Spain</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>40.553054 -3.898982</georss:point>
+        <title>Madrid, Spain</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>45.461285 9.189124</georss:point>
+        <title>Milan, Italy</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>55.728826 37.643379</georss:point>
+        <title>Moscow, Russia</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>55.736715 37.597499</georss:point>
+        <title>Moscow, Russia</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>49.15249 -0.478179</georss:point>
+        <title>Mouen, France</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>48.140798 11.649601</georss:point>
+        <title>Munich, Germany</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>50.042621 8.693518</georss:point>
+        <title>Neu-Isenburg, Germany</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>48.140798 11.649601</georss:point>
+        <title>Nice, France</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>48.820072 2.323302</georss:point>
+        <title>Paris, France</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>50.057089 14.432849</georss:point>
+        <title>Prague, Czech Republic</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>45.626876 9.037358</georss:point>
+        <title>Saronno, Italy</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>42.699733 23.308202</georss:point>
+        <title>Sofia, Bulgaria</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>59.92092 30.387851</georss:point>
+        <title>St. Petersburg, Russia</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>59.347433 18.038055</georss:point>
+        <title>Stockholm, Sweden</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>59.857365 17.640566</georss:point>
+        <title>Uppsala, Sweden</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>38.035592 23.826857</georss:point>
+        <title>Vrilissia, Greece</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>52.235675 20.979481</georss:point>
+        <title>Warsaw, Poland</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>50.067519 8.248837</georss:point>
+        <title>Wiesbaden, Germany</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>-34.905135 138.572945</georss:point>
+        <title>Adelaide, Australia</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>-36.740982 174.723773</georss:point>
+        <title>Auckland, New Zealand</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>13.7391 100.548</georss:point>
+        <title>Bangkok, Thailand</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>39.907097 116.45913</georss:point>
+        <title>Beijing, China</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>13.048147 77.622188</georss:point>
+        <title>Bengaluru, India</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>38.858279 121.527892</georss:point>
+        <title>Dalian, China</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>28.496539 77.094283</georss:point>
+        <title>Gurgaon, India</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>28.467652 77.041259</georss:point>
+        <title>Gurgaon, India</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>28.489029 77.085101</georss:point>
+        <title>Gurgaon, India</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>22.286249 114.21359</georss:point>
+        <title>Hong Kong</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>17.436831 78.383045</georss:point>
+        <title>Hyderabad, India</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>17.447878 78.355125</georss:point>
+        <title>Hyderabad, India</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>-6.21374 106.817574</georss:point>
+        <title>Jakarta, Indonesia</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>3.119934 101.676535</georss:point>
+        <title>Kuala Lumpur, Malaysia</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>14.557264 121.021859</georss:point>
+        <title>Makati City, Philippines</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>34.699056 135.492277</georss:point>
+        <title>Osaka, Japan</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>14.585908 121.060247</georss:point>
+        <title>Pasig City, Philippines</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>18.563268 73.884595</georss:point>
+        <title>Pune, India</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>18.563268 73.884595</georss:point>
+        <title>Pune, India</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>37.499994 127.036507</georss:point>
+        <title>Seoul, South Korea</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>31.230878 121.464561</georss:point>
+        <title>Shanghai, China</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>1.301626 103.792179</georss:point>
+        <title>Singapore</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>-33.751772 151.146965</georss:point>
+        <title>Sydney, Australia</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>25.054697 121.549631</georss:point>
+        <title>Taipei, Taiwan</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>35.682611 139.772626</georss:point>
+        <title>Tokyo, Japan</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>35.632491 139.743066</georss:point>
+        <title>Tokyo, Japan</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>25.261774 55.371729</georss:point>
+        <title>Dubai, United Arab Emirates</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>32.055446 34.862469</georss:point>
+        <title>Kiryat Ono, Israel</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>33.865171 35.56234</georss:point>
+        <title>Mar Roukoz, Lebanon</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>30.100946 31.370612</georss:point>
+        <title>Cairo, Egypt</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>-26.143588 28.042392</georss:point>
+        <title>Johannesburg, South Africa</title>
+        <icon>synh.png</icon>
+    </entry>
+    <entry>
+        <georss:point>-29.1055 26.1942</georss:point>
+        <title>Bloemfontein, South Africa</title>
+        <icon>synh.png</icon>
+    </entry>
 </feed>

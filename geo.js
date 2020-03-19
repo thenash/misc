@@ -1,6 +1,7 @@
 var map, infobox, covidLayer, synhLayer;
 var synhData = './synhlocations.geojson';
 var covidData = './covid.geojson';
+var synhFeedXML = './synhfeed.xml';
 
 function GetMap() {
     map = new Microsoft.Maps.Map('#myMap', {
@@ -33,11 +34,19 @@ function GetMap() {
             covidLayer.add(shapes);
         });
         /*
-        Microsoft.Maps.GeoJson.readFromUrl(synhData, function(shapes) {
-            //Add shapes to the layer.
-            synhLayer.add(shapes);
-        });
+                Microsoft.Maps.GeoJson.readFromUrl(synhData, function(shapes) {
+                    //Add shapes to the layer.
+                    synhLayer.add(shapes);
+                });
         */
+    });
+
+    Microsoft.Maps.loadModule('Microsoft.Maps.GeoXml', function() {
+        //Create an instance of the GeoXmlLayer.
+        synhLayer = new Microsoft.Maps.GeoXmlLayer();
+        synhLayer.setDataSource(synhFeedXML);
+        //Add the layer to the map.
+        map.layers.insert(synhLayer);
     });
 }
 
