@@ -27,10 +27,7 @@ function GetMap() {
     //Load the GeoJSON module and read the GeoJSON feed.
     Microsoft.Maps.loadModule('Microsoft.Maps.GeoJson', function() {
         // var tools = new Microsoft.Maps.DrawingTools(map);
-        Microsoft.Maps.GeoJson.readFromUrl(covidData, function(shapes) {
-            //Add shapes to the layer.
-            covidLayer.add(shapes);
-        });
+
         Microsoft.Maps.GeoJson.readFromUrl(synhData, function(shapes) {
             //Add shapes to the layer.
             synhLayer.add(shapes);
