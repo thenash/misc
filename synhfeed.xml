@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <feed xmlns:georss="http://www.georss.org/georss" xmlns:gml="http://www.opengis.net/gml" xmlns:mappoint="http://virtualearth.msn.com/apis/annotate#" xmlns="http://www.w3.org/2005/Atom">
+ <entry>
+        <georss:point>45.45987 9.20536</georss:point>
+        <title>Viale regina Margherita - Rotonda Besana</title>
+        <icon>synh.png</icon>
+    </entry>
  <event>
   <georss:point>42.484397 -71.195815</georss:point>
   <title>Ann Arbor, Michigan, USA</title>
