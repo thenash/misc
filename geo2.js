@@ -1,6 +1,7 @@
 var map, infobox, covidLayer, synhLayer;
 var synhData = './synhlocations.geojson';
 var covidData = './covid.geojson';
+var synhFeedXML = './synhfeed.xml';
 
 function GetMap() {
     map = new Microsoft.Maps.Map('#myMap', {
@@ -25,6 +26,7 @@ function GetMap() {
     Microsoft.Maps.Events.addHandler(synhLayer, 'click', showInfobox2);
 
     //Load the GeoJSON module and read the GeoJSON feed.
+    /*
     Microsoft.Maps.loadModule('Microsoft.Maps.GeoJson', function() {
         // var tools = new Microsoft.Maps.DrawingTools(map);
         Microsoft.Maps.GeoJson.readFromUrl(covidData, function(shapes) {
@@ -35,8 +37,17 @@ function GetMap() {
             //Add shapes to the layer.
             synhLayer.add(shapes);
         });
-
     });
+    */
+
+    Microsoft.Maps.loadModule('Microsoft.Maps.GeoXml', function() {
+        //Create an instance of the GeoXmlLayer.
+        synhLayer = new Microsoft.Maps.GeoXmlLayer();
+        synhLayer.setDataSource(synhFeedXML);
+        //Add the layer to the map.
+        map.layers.insert(synhLayer);
+    });
+
 }
 
 function showInfobox(e) {
